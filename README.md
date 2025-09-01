@@ -1,6 +1,6 @@
 ## Demo
 
-This is a readme file
-Adding another line
+This is a readme file.
+
 
 just wanted to add another line 
